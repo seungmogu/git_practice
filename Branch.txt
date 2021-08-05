@@ -9,6 +9,12 @@ Master Branch: Merge가 되기전까지
 토픽 브랜치: 특정한 기능을 위해 만들어진 브랜치로 일반적으로 마스터 브랜치
 이외의 다른 브랜치
 
+git branch [브랜치 이름]: 브랜치 생성
 
+git checkout [브랜치 이름]:  다른 브랜치로 접속
 
+1.git add -> 수정된 파일 추가
+2. git commit 
+3. git merge -> 기존꺼랑 합치기
+4. git push -> Github에 업로드
 

@@ -1,0 +1,36 @@
+[33mcommit 76572478d520ee1fb15ea57aa9fa774c4de5bb2e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: aa4f16f 0f7411a
+Author: seungmo <seungmogu786@gmail.com>
+Date:   Thu Aug 5 20:28:57 2021 +0900
+
+    Merge branch 'master' of https://github.com/seungmogu/git_practice
+
+[33mcommit aa4f16f57baf492b3ea47684736916203e77301b[m
+Author: seungmo <seungmogu786@gmail.com>
+Date:   Thu Aug 5 20:24:13 2021 +0900
+
+    Add Text File[Branch.txt]
+
+[33mcommit 566df89cec55a9940fcc1324a36d2322fab09cc5[m
+Author: seungmo <seungmogu786@gmail.com>
+Date:   Thu Aug 5 20:19:08 2021 +0900
+
+    Add Text File[Branch.txt]
+
+[33mcommit 0f7411a3dd7f02fb013bbf2c449fb4098cbb5a35[m
+Author: seungmo <76981135+seungmogu@users.noreply.github.com>
+Date:   Thu Aug 5 15:27:58 2021 +0900
+
+    Delete test.txt
+
+[33mcommit 756dbf7aabb6d39bc0591256fb3e0209a7b1e7c6[m
+Author: seungmo <seungmogu786@gmail.com>
+Date:   Thu Aug 5 15:27:27 2021 +0900
+
+    Add Text File[add_command]
+
+[33mcommit cb520da04ab5e9a23936a56e91c01a6cd4b795f1[m
+Author: seungmo <seungmogu786@gmail.com>
+Date:   Thu Aug 5 15:16:42 2021 +0900
+
+    Add Text File [test.txt]
