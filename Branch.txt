@@ -19,4 +19,4 @@ git checkout [브랜치 이름]:  다른 브랜치로 접속
 4. git push -> Github에 업로드
 
 
-
+git branch -d [브런치 이름]: 브런치 삭제
