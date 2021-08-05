@@ -16,6 +16,7 @@ git checkout [브랜치 이름]:  다른 브랜치로 접속
 1.git add -> 수정된 파일 추가
 2. git commit 
 <<<<<<< HEAD
+<<<<<<< HEAD
 3. git merge [브랜치 이름] -> 기존꺼랑 합치기
 4. git push -> Github에 업로드
 
@@ -25,4 +26,10 @@ git checkout [브랜치 이름]:  다른 브랜치로 접속
 4. git push -> Github에 업로드
 
 바꿔
+>>>>>>> develop
+=======
+3. git merge [브랜치 이름] -> 기존꺼랑 합치기
+4. git push -> Github에 업로드
+
+바꿔~
 >>>>>>> develop
