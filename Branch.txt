@@ -20,7 +20,10 @@ Master Branch: Merge가 되기전까지
 7. git push -> Github에 업로드
 
 
-git branch -d [브랜치 이름]: 브런치 삭제
+git branch -d [브랜치 이름]: 로컬 브런치 삭제
+
+git checkout -t [원격저장소 branch 이름]: 원격저장소에 있는 branch를 가져옴
+git push origin --delete  {브랜치명}: 원격저장소에 올라가 있는 브랜치를 삭제
 
 git push --set-upstream origin [브랜치 이름]: branch에 push 권한 주기
 
