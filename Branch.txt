@@ -23,3 +23,5 @@ Master Branch: Merge가 되기전까지
 git branch -d [브랜치 이름]: 브런치 삭제
 
 git push --set-upstream origin [브랜치 이름]: branch에 push 권한 주기
+
+git clone <repository 주소>: 기존에 올려두었던 github의 프로젝트를 clone 하여 가져옵니다.
