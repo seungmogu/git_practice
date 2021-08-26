@@ -2,9 +2,12 @@ Git에서 커밋(Commit) 내역 수정하기
 
 git reset --hard [해쉬 값]: 커밋 이전으로 돌아가고  이후에 발생했던 커밋부분 없애기
                   --soft: 돌아간 이후 커밋부분 존재
-                  --mixed: 
+                  --mixed: working directory에 보존한다점에서 hard보다 안전하다
 
 git push -f: 강제로 github에 등록
+
+git reset HEAD [file]: .add 한것 리셋
+git reset HEAD^ : .commit 한것 취소
 
 git commit --amend
 
