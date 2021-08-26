@@ -8,6 +8,5 @@ git push -f: 강제로 github에 등록
 
 git reset HEAD [file]: .add 한것 리셋
 
-git commit --amend -m "new commit message": 커밋 메세지 수정
 
 A 클릭 -> 내용 수정 -> esc -> :wq!
