@@ -7,7 +7,6 @@ git reset --hard [해쉬 값]: 커밋 이전으로 돌아가고  이후에 발�
 git push -f: 강제로 github에 등록
 
 git reset HEAD [file]: .add 한것 리셋
-git reset HEAD^ : .commit 한것 취소
 
 git commit --amend
 
